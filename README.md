@@ -1,5 +1,7 @@
 # Webp-to-PNG-Converter
 
+![Webp_to_PNG_Converter_vOvAX0bn34](https://user-images.githubusercontent.com/10040043/221978446-ede2b6ec-82d7-4c5b-878e-9593aecc05f5.png)
+
 This script will auto-download the necessary dwebp binaries and will use it convert .webp files to .png
 
 .BAT file uses PowerShell Invoke-WebRequest to download the dwebp binaries from Google.
